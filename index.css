@@ -14,22 +14,25 @@
     gap: 100px;
 }
 
-.beautiful-flowers-text{
+.beautiful-flowers-text {
     /* width: 40%; */
     margin-top: 100px;
     margin-left: 100px;
-    
+
 }
-.beautiful-flowers-h{
+
+.beautiful-flowers-h {
     color: #620ec9;
     font-size: 50px;
     padding: 20px;
 }
-.beautiful-flowers-p{
+
+.beautiful-flowers-p {
     color: #a4065d;
     font-size: 15px;
     padding: 20px;
 }
+
 .btn {
     font-size: 20px;
     background-color: red;
@@ -40,15 +43,16 @@
     border-radius: 5px;
 
 }
-.beautiful-flowers-img-div
-{
+
+.beautiful-flowers-img-div {
     margin-right: 200px;
     padding-bottom: 0px;
 }
-.beautiful-flowers-img{
+
+.beautiful-flowers-img {
     height: 700px;
     width: 500px;
-   
+
 }
 
 /* Hot Deal */
@@ -63,22 +67,25 @@
     margin-top: 50px;
 }
 
-.Hot-Deal-text{
+.Hot-Deal-text {
     /* width: 40%; */
     margin-top: 100px;
     margin-left: 100px;
-    
+
 }
-.Hot-Deal-h{
+
+.Hot-Deal-h {
     color: #620ec9;
     font-size: 30px;
     padding: 20px;
 }
-.Hot-Deal-p{
+
+.Hot-Deal-p {
     color: #a4065d;
     font-size: 15px;
     padding: 20px;
 }
+
 .Hot-Deal-btn {
     font-size: 20px;
     background-color: red;
@@ -89,14 +96,42 @@
     border-radius: 5px;
 
 }
-.Hot-Deal-img-div
-{
+
+.Hot-Deal-img-div {
     margin-right: 200px;
     margin-top: 100px;
     padding-bottom: 0px;
 }
-.Hot-Deal-img{
+
+.Hot-Deal-img {
     height: 300px;
     width: 250px;
-   
+
+}
+
+/* Instagram */
+
+.Instagram {
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.Instagram-h1 {
+    text-align: center;
+}
+
+.boxs {
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+}
+
+.box-img {
+    width: 250px;
+    height: 300px;
+    border-radius: 5px;
 }
