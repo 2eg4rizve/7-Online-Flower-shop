@@ -253,22 +253,76 @@ background: rgba(167, 33, 98, 0.15);
     margin-bottom: 40px;
 }
 
-.contact-email {
+.Latest-Deals-contact-email {
     padding: 18px 35px;
-    width: 450px;
+    width: 500px;
+    height: 15px;
+    /* margin-right: 500px; */
     border-radius: 5px;
 
 }
 
-.contact-btn {
+.Latest-Deals-contact-btn {
     border-radius: 5px;
     background: #E55473;
-    border: 0;
+    /* border: 0; */
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
 
+}
+/* massage */
+footer{
+    display: flex;
+    background: rgba(177, 104, 21, 0.1);
+    padding: 30px;
+    margin-top: 100px;
+    gap: 100px;
+    color: #a80303;
+}
+.footer-left{
+    width: 50%;
+}
+.footer-right{
+    width: 50%;
+    padding-left: 250px;
+}
+.footer-h{
+    color: #a80303;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.footer-p{
+    color: rgb(171, 14, 14);
+    padding-bottom: 20px;
+    margin-left: 1px;
+    background-color: #272727;
+}
+.contact input[type ="text"],.contact input[type ="email"],
+textarea {
+    display: block;
+    margin-bottom: 20px;
+    padding: 18px 35px;
+    color: #a80303;
+    border-radius: 5px;
+    background:  #4c4758;
+    border: 0px;
+    width: 100%;
+}
+.btn-primary {
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    color: wheat;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+
+}
+.hr{
+    font-weight: bold;
 }
 
 
