@@ -143,14 +143,15 @@
 /*  Latest Deals */
 
 .Latest-Deals {
-    width: 80%;
+    width: 73%;
     margin: auto;
-    height: 300px;
+    height: 230px;
     background-color: gray;
     padding: 70px;
     border-radius: 10px;
     margin-top: 50px;
     text-align: center;
+    background-image: url('./Rectangle\ 9.png');
        
     
 
@@ -161,6 +162,7 @@
 .Latest-Deals-p{
     color: rgba(39, 39, 39, 0.60);
     padding: 20px;
+    margin-bottom: 40px;
 }
 
 .contact-email{
