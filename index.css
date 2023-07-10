@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* beautiful-flowers */
+
+.beautiful-flowers {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: rgba(229, 84, 115, 0.10);
+    gap: 100px;
+}
+
+.beautiful-flowers-text{
+    /* width: 40%; */
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+.beautiful-flowers-h{
+    color: #620ec9;
+    font-size: 50px;
+    padding: 20px;
+}
+.beautiful-flowers-p{
+    color: #a4065d;
+    font-size: 15px;
+    padding: 20px;
+}
+.btn {
+    font-size: 20px;
+    background-color: red;
+    padding: 10px;
+    /* margin: 20px; */
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
+.beautiful-flowers-img-div
+{
+    margin-right: 200px;
+    padding-bottom: 0px;
+}
+.beautiful-flowers-img{
+    height: 700px;
+    width: 500px;
+   
+}
+
