@@ -54,6 +54,40 @@
     width: 500px;
 
 }
+/* Featured Flowers */
+
+.Featured-Flowers{
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.Featured-Flowers-h1 {
+    text-align: center;
+}
+
+.Featured-Flowers-p {
+    text-align: center;
+}
+.Featured-Flowers-boxs {
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+    justify-content: space-around;
+}
+.Featured-Flowers-box-img {
+    width: 350px;
+    height: 450px;
+    background-color: aqua;
+    border-radius: 5px;
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+}
+
+
+
 
 /* Hot Deal */
 
