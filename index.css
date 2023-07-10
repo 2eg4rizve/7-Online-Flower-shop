@@ -54,9 +54,10 @@
     width: 500px;
 
 }
+
 /* Featured Flowers */
 
-.Featured-Flowers{
+.Featured-Flowers {
     width: 80%;
     margin: auto;
     background-color: gray;
@@ -64,6 +65,7 @@
     border-radius: 10px;
     margin-top: 50px;
 }
+
 .Featured-Flowers-h1 {
     text-align: center;
 }
@@ -71,19 +73,27 @@
 .Featured-Flowers-p {
     text-align: center;
 }
+
 .Featured-Flowers-boxs {
     display: flex;
     gap: 20px;
-    padding: 30px;
+    padding: 50px;
     justify-content: space-around;
+
 }
+
 .Featured-Flowers-box-img {
-    width: 350px;
-    height: 450px;
+    width: 340px;
+    height: 350px;
     background-color: aqua;
-    border-radius: 5px;
-    border-top-left-radius: 60%;
-    border-top-right-radius: 60%;
+    border-top-left-radius: 48%;
+    border-top-right-radius: 48%;
+    /* margin-top: 10px; */ 
+    padding-top: 60px;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    
+
 }
 
 
@@ -230,23 +240,27 @@
     padding: 100px;
     text-align: center;
     color: white;
-   
+
 
 
 
 }
+
 .footer-text-primary {
 
     color: #E55473;
 }
-.footer-h1{
+
+.footer-h1 {
     font-size: 48px;
     margin: 20px;
 }
-.footer-p{
+
+.footer-p {
     color: rgba(255, 255, 255, 0.90);
     margin: 20px;
 }
-.copy-rights{
+
+.copy-rights {
     color: rgba(255, 255, 255, 0.40);
 }
