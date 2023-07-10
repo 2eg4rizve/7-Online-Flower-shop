@@ -160,4 +160,22 @@
 }
 .Latest-Deals-p{
     color: rgba(39, 39, 39, 0.60);
+    padding: 20px;
+}
+
+.contact-email{
+    padding: 18px 35px;
+    width: 450px;
+    border-radius: 5px;
+
+}
+.contact-btn {
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+
 }
