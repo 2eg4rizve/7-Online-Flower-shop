@@ -22,20 +22,20 @@
 }
 
 .beautiful-flowers-h {
-    color: #620ec9;
+    color: #272727;
     font-size: 50px;
     padding: 20px;
 }
 
 .beautiful-flowers-p {
-    color: #a4065d;
+    color: rgba(39, 39, 39, 0.60);
     font-size: 15px;
     padding: 20px;
 }
 
 .btn {
     font-size: 20px;
-    background-color: red;
+    background: #E55473;
     padding: 10px;
     /* margin: 20px; */
     margin-top: 20px;
@@ -71,13 +71,14 @@
     color: #272727;
     padding: 20px;
     font-size: 30px;
+    font-family: Lato;
 }
 
 .Featured-Flowers-p {
     text-align: center;
     padding: 20px;
     color: rgba(39, 39, 39, 0.60);
-   
+
 }
 
 .Featured-Flowers-boxs {
@@ -98,28 +99,32 @@
 background: rgba(167, 33, 98, 0.15);
 1x */
 
-    /* margin-top: 10px; */ 
+    /* margin-top: 10px; */
     padding-top: 60px;
     /* padding-left: 10px;
     padding-right: 10px; */
-    
+
 
 }
-.Featured-Flowers-bottom{
+
+.Featured-Flowers-bottom {
     margin-top: 20px;
     text-align: center;
     text-decoration: underline;
     font-weight: bold;
     font-size: 20px;
-    
+
 }
-#Featured-Flowers-f1{
+
+#Featured-Flowers-f1 {
     background-color: rgba(167, 33, 98, 0.15)
 }
-#Featured-Flowers-f2{
+
+#Featured-Flowers-f2 {
     background-color: rgba(5, 151, 160, 0.15)
 }
-#Featured-Flowers-f3{
+
+#Featured-Flowers-f3 {
     background-color: rgba(71, 125, 17, 0.15)
 }
 
@@ -146,20 +151,25 @@ background: rgba(167, 33, 98, 0.15);
 }
 
 .Hot-Deal-h {
-    color: #620ec9;
+    color: #272727;
     font-size: 30px;
     padding: 20px;
+    font-family: Lato;
+}
+
+.Hot-Deal-text-primary {
+    color: #E55473;
+    
 }
 
 .Hot-Deal-p {
-    color: #a4065d;
-    font-size: 15px;
+    color: rgba(39, 39, 39, 0.60) font-size: 15px;
     padding: 20px;
 }
 
 .Hot-Deal-btn {
     font-size: 20px;
-    background-color: red;
+    background: #E55473;
     padding: 10px;
     /* margin: 20px; */
     margin-top: 20px;
@@ -185,7 +195,7 @@ background: rgba(167, 33, 98, 0.15);
 .Instagram {
     width: 80%;
     margin: auto;
-    background-color: gray;
+    /* background-color: gray; */
     padding: 20px;
     border-radius: 10px;
     margin-top: 50px;
@@ -193,10 +203,15 @@ background: rgba(167, 33, 98, 0.15);
 
 .Instagram-h1 {
     text-align: center;
+    margin-bottom: 20px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
 }
 
 .Instagram-p {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .boxs {
