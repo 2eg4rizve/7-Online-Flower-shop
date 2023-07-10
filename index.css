@@ -91,7 +91,7 @@
 .Featured-Flowers-box-img {
     width: 370px;
     height: 350px;
-    background-color: aqua;
+    background-color: rgba(71, 125, 17, 0.15);
     border-top-left-radius: 48%;
     border-top-right-radius: 48%;
     /* border-radius: 300px 300px 0px 0px;
@@ -104,6 +104,14 @@ background: rgba(167, 33, 98, 0.15);
     padding-right: 10px; */
     
 
+}
+.Featured-Flowers-bottom{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    
 }
 
 
