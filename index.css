@@ -84,6 +84,8 @@
     padding: 20px;
     font-size: 30px;
     font-family: Lato;
+    margin-top: 110px;
+
 }
 
 .Featured-Flowers-p {
@@ -116,6 +118,8 @@ background: rgba(167, 33, 98, 0.15);
     /* padding-top: 60px; */
     /* padding-left: 10px;
     padding-right: 10px; */
+    /* padding-bottom: 40px; */
+    margin-bottom: 20px;
 
 
 }
@@ -126,7 +130,7 @@ background: rgba(167, 33, 98, 0.15);
     text-decoration: underline;
     font-weight: bold;
     font-size: 20px;
-    margin : auto;
+    margin: auto;
 
 }
 
@@ -153,6 +157,43 @@ background: rgba(167, 33, 98, 0.15);
 
 }
 
+/* support */
+
+.support {
+    display: flex;
+    /* gap: 200px; */
+
+    width: 75%;
+    height: 200px;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    gap: 150px;
+    padding: 50px;
+    margin-top: 50px;
+
+
+
+}
+
+.support-man {
+    /* padding: 30px 60px 30px 60px; */
+
+
+}
+
+.support-img {
+    margin-top: 30px;
+
+}
+
+.support-p {
+    margin-bottom: 30px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+}
 
 
 
@@ -310,7 +351,7 @@ background: rgba(167, 33, 98, 0.15);
     text-align: center;
     justify-content: center;
     margin-bottom: 100px;
-    margin : auto;
+    margin: auto;
 }
 
 .price-section-h {
@@ -340,7 +381,8 @@ background: rgba(167, 33, 98, 0.15);
     width: 100%;
     height: 50%;
 }
-.price-box-name{
+
+.price-box-name {
     margin-top: 20px;
     margin-bottom: 15px;
 }
@@ -400,7 +442,8 @@ textarea {
     padding: 15px 35px;
 
 }
-.footer-details{
+
+.footer-details {
     margin: 10px;
 }
 
