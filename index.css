@@ -390,6 +390,67 @@ background: rgba(167, 33, 98, 0.15);
     margin-bottom: 15px;
 }
 
+/* Blog & Comment */
+
+.blog-container {
+    width: 90%;
+    margin: auto;
+    background-color: gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-image: url(./back-ground-flower.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.blog-title {
+    color: black;
+    text-align: center;
+    margin: 50px;
+    font-size: 50px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.card {
+    width: 420px;
+    height: 320px;
+    background-color: aqua;
+    box-shadow: 4px 8px 4px rgb(210, 1, 1);
+    border-radius: 5px;
+    gap: 10px;
+    margin-bottom: 50px;
+}
+
+.blog-img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-left: 5px;
+}
+
+
+.blog-p {
+    margin: 10px;
+    color: rgb(8, 8, 210);
+    font-size: 20px;
+}
+
+
 /* massage */
 footer {
     display: flex;
