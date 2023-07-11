@@ -72,7 +72,7 @@
 /* Featured Flowers */
 
 .Featured-Flowers {
-    width: 80%;
+    width: 75%;
     margin: auto;
     /* background-color: gray; */
     padding: 10px;
@@ -97,8 +97,8 @@
 
 }
 
-.Featured-Flowers-img{
-    
+.Featured-Flowers-img {
+
     width: 100%;
     margin: auto;
     text-align: center;
@@ -108,15 +108,18 @@
 }
 
 
-.Featured-Flowers-img img{
-    height: 180px;
-    width: 150px;
+.Featured-Flowers-img img {
+    height: 350px;
+    width: 330px;
     padding: 80px 30px 0px 30px;
-   
+
 
 }
-.Featured-Flowers-size{
 
+.Featured-Flowers-size {
+    width: 1050px;
+    height: 500px;
+    flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
 
 }
@@ -135,13 +138,14 @@
 
 #Featured-Flowers-f3 {
     background-color: rgba(71, 125, 17, 0.15);
-    
+
 
 
 }
-.Featured-Flowers-bottom{
+
+.Featured-Flowers-bottom {
     text-align: center;
-    text-decoration-line:underline ;
+    text-decoration-line: underline;
     margin-top: 20px;
 }
 
@@ -150,7 +154,7 @@
 .support {
     display: flex;
     /* gap: 200px; */
-    
+
     margin-top: 50px;
 
     width: 75%;
