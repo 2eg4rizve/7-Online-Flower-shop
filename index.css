@@ -308,6 +308,9 @@ background: rgba(167, 33, 98, 0.15);
     margin-top: 50px;
     text-align: center;
     background-image: url('./Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
 
