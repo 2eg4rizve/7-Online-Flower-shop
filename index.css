@@ -126,6 +126,7 @@ background: rgba(167, 33, 98, 0.15);
     text-decoration: underline;
     font-weight: bold;
     font-size: 20px;
+    margin : auto;
 
 }
 
@@ -261,7 +262,7 @@ background: rgba(167, 33, 98, 0.15);
     margin: auto;
     height: 310px;
     background-color: gray;
-    padding: 30px;
+    padding: 20px;
     border-radius: 10px;
     margin-top: 50px;
     text-align: center;
@@ -309,6 +310,7 @@ background: rgba(167, 33, 98, 0.15);
     text-align: center;
     justify-content: center;
     margin-bottom: 100px;
+    margin : auto;
 }
 
 .price-section-h {
@@ -397,6 +399,9 @@ textarea {
     font-weight: 700;
     padding: 15px 35px;
 
+}
+.footer-details{
+    margin: 10px;
 }
 
 .hr {
