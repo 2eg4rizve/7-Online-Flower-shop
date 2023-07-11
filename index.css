@@ -7,18 +7,28 @@
 
 .beautiful-flowers {
     height: 100vh;
-    display: flex;
+    /* width: 600px; */
+    /* display: flex;
     justify-content: space-around;
-    padding: 20px;
+    padding: 30px 30px 0px 150px;
     background: rgba(229, 84, 115, 0.10);
-    gap: 100px;
+    gap: 100px; */
+
 }
 
 .beautiful-flowers-text {
     /* width: 40%; */
-    margin-top: 100px;
-    margin-left: 100px;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 30px 0px 150px;
+    background: rgba(229, 84, 115, 0.10);
+    gap: 100px;
 
+}
+.beautiful-flowers-info{
+    padding: 60px 100px 0px 100px;
 }
 
 .beautiful-flowers-h {
@@ -50,8 +60,9 @@
 }
 
 .beautiful-flowers-img {
-    height: 700px;
-    width: 500px;
+    /* height: 700px; */
+    width: 600px;
+    /* padding-bottom: 0px; */
 
 }
 
@@ -93,6 +104,7 @@
     width: 370px;
     height: 350px;
     background-color: rgba(71, 125, 17, 0.15);
+    /* border-radius: 300px 300px 0px 0px; */
     border-top-left-radius: 48%;
     border-top-right-radius: 48%;
     /* border-radius: 300px 300px 0px 0px;
@@ -100,7 +112,7 @@ background: rgba(167, 33, 98, 0.15);
 1x */
 
     /* margin-top: 10px; */
-    padding-top: 60px;
+    /* padding-top: 60px; */
     /* padding-left: 10px;
     padding-right: 10px; */
 
@@ -115,17 +127,27 @@ background: rgba(167, 33, 98, 0.15);
     font-size: 20px;
 
 }
-
+/* img{
+    height: 180px;
+    width: 150px;
+} */
 #Featured-Flowers-f1 {
-    background-color: rgba(167, 33, 98, 0.15)
+    background-color: rgba(167, 33, 98, 0.15);
+    padding : 40px 15px 0px 15px;
+  
+    
 }
 
 #Featured-Flowers-f2 {
-    background-color: rgba(5, 151, 160, 0.15)
+    background-color: rgba(5, 151, 160, 0.15);
+    padding : 40px 15px 0px 15px;
 }
 
 #Featured-Flowers-f3 {
-    background-color: rgba(71, 125, 17, 0.15)
+    background-color: rgba(71, 125, 17, 0.15);
+    padding : 40px 15px 0px 15px;
+   
+    
 }
 
 
@@ -163,7 +185,8 @@ background: rgba(167, 33, 98, 0.15);
 }
 
 .Hot-Deal-p {
-    color: rgba(39, 39, 39, 0.60) font-size: 15px;
+    color: rgba(39, 39, 39, 0.60) ;
+    font-size: 15px;
     padding: 20px;
 }
 
@@ -199,6 +222,8 @@ background: rgba(167, 33, 98, 0.15);
     padding: 20px;
     border-radius: 10px;
     margin-top: 50px;
+    /* display: flex;
+    justify-content: center; */
 }
 
 .Instagram-h1 {
@@ -216,6 +241,7 @@ background: rgba(167, 33, 98, 0.15);
 
 .boxs {
     display: flex;
+    justify-content: center;
     gap: 20px;
     padding: 30px;
 }
