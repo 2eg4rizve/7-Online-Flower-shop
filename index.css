@@ -257,9 +257,9 @@ background: rgba(167, 33, 98, 0.15);
 .Latest-Deals {
     width: 66%;
     margin: auto;
-    height: 230px;
+    height: 310px;
     background-color: gray;
-    padding: 70px;
+    padding: 30px;
     border-radius: 10px;
     margin-top: 50px;
     text-align: center;
@@ -285,6 +285,8 @@ background: rgba(167, 33, 98, 0.15);
     height: 15px;
     /* margin-right: 500px; */
     border-radius: 5px;
+    margin-bottom: 100px;
+    
 
 }
 
@@ -296,6 +298,7 @@ background: rgba(167, 33, 98, 0.15);
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+    margin-bottom: 100px;
 
 }
 /* massage */
